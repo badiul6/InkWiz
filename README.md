@@ -10,6 +10,14 @@ Mobile App to convert handwritten text to editable text
 
 3. Then by using headless browser, pass the image url to the gooogle lens and extract text by scraping webpage of google lens.
 
+## Plugin Used
+
+1. Image Picker
+
+2. Http
+
+3. Flutter InAppWebView
+
 ## How to run project
 
 # Step1: Clone the project
