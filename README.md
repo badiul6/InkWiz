@@ -1,16 +1,13 @@
 # inkwiz
 
-A new Flutter project.
+Mobile App to convert handwritten text to editable text
 
-## Getting Started
+## Working
 
-This project is a starting point for a Flutter application.
+1. This application user image from camera/gallery.
 
-A few resources to get you started if this is your first Flutter project:
+2. Upload the image on tmpfiles using post api.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Then by using headless browser, pass the image url to the gooogle lens and extract text by scraping webpage of google lens.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
