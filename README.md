@@ -1,10 +1,10 @@
 # InkWiz
 
-Mobile App to convert handwritten text to editable text
+Mobile App to convert handwritten text to editable text.
 
 ## Working
 
-1. This application user image from camera/gallery.
+1. This application pick an image from camera/gallery.
 
 2. Upload the image on tmpfiles using post api.
 
