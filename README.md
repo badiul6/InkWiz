@@ -1,4 +1,4 @@
-# inkwiz
+# InkWiz
 
 Mobile App to convert handwritten text to editable text
 
